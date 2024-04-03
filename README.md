@@ -141,6 +141,9 @@ const firebaseConfig = {
 };
 
 
+Una vez creada nuestra configuracion para usar el firebase copiamos nuevamente este resultado y creamos en la carpeta 
+de recursos de nuestro proyecto un archivo "fb" o "firebas.js" y pegamos la configuracion.
+
 
 
 
