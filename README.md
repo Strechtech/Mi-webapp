@@ -94,6 +94,7 @@ Para esto deberemos de seleccionar la opcion llamada "Firestore" en este se nos 
 ## Please select an option ?
 En esta parte nos depliega 3 opciones, deberemos de aceptar en donde mencione usar en un proyecto exitente.
 
+
 ## What file should be use for Firestore Rules?
 ## What file should be use for Firestore Indexes?
 Aceptaremos la opcion que viene por defecto y seguimos aceptando las demas preguntas
@@ -103,7 +104,8 @@ En esta parte ponemos cualquier nombre para nuestra app, finalmente se creara nu
 para su correcto manejo, unaz vez cargado nuestros archivos se nos genera este comando.
 
 
-
+## `firebase apps: "app id" ` 
+A este codigo que nos genera deberemos de copiarlo y pegarlo nuevamente en nuestro terminal
 
 
 
