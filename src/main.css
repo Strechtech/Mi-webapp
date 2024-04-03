@@ -1,0 +1,217 @@
+/* Estilos generales */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa; /* Color de fondo */
+  color: #333;
+}
+
+/* Estilos para el Navbar */
+nav {
+  background-color: #ffffff; /* Color de fondo del Navbar */
+  padding: 16px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 0 10px;
+}
+
+li a {
+  color: #333; /* Color de las opciones */
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  transition: color 0.3s ease; /* Transición de color */
+}
+
+li a:hover {
+  color: #000; /* Color al pasar el ratón */
+}
+
+/* Estilos para los títulos */
+h2 {
+  color: #000; /* Color de título */
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Estilos para el formulario de inicio de sesión */
+.login-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.login-container h1 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.login-form label {
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.login-form input {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.login-form .error-message {
+  margin-top: 5px;
+  color: #ff3333;
+}
+
+.login-form .success-message {
+  margin-top: 5px;
+  color: #33cc33;
+}
+
+.login-form .submit-button {
+  padding: 12px 24px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 20px;
+  border: none;
+  background-color: #3897f0;
+  color: #fff;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.login-form .submit-button:hover {
+  background-color: #2684f3;
+}
+
+.toggle-button {
+  padding: 10px 20px;
+  font-size: 14px;
+  text-align: center;
+  background-color: transparent;
+  color: #3897f0;
+  border: none;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  width: 100%;
+}
+
+.toggle-button:hover {
+  color: #2684f3;
+}
+
+/* Estilos para el botón de cerrar sesión */
+.logout-button {
+  display: block;
+  margin-top: 10px;
+  padding: 12px 24px;
+  font-size: 16px;
+  text-align: center;
+  background-color: #ff3333;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.logout-button:hover {
+  background-color: #cc0000;
+}
+.user-type-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.user-type-button {
+  background-color: transparent;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.user-type-button.selected {
+  background-color: #ccc;
+  font-weight: bold;
+}
+.error-message {
+  color: #ff0000;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.success-message {
+  color: #008000;
+  font-size: 14px;
+  margin-top: 5px;
+}
+.colaboradores-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.colaboradores-images img {
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+.colaboradores-images img:hover {
+  transform: scale(1.2);
+}
+
+.map-container {
+  width: 70%;
+  height: 300px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 20px auto; /* Centra el contenedor horizontalmente y agrega un espacio superior e inferior */
+}
+
+
+/* Estilos para el botón de cerrar sesión */
+.logout-button {
+  display: block;
+  margin-top: 10px;
+  padding: 12px 24px;
+  font-size: 16px;
+  text-align: center;
+  background-color: #ff3333;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.logout-button:hover {
+  background-color: #cc0000;
+}
