@@ -105,16 +105,7 @@ para su correcto manejo, unaz vez cargado nuestros archivos se nos genera este c
 
 
 ## `firebase apps: "app id" ` 
-A este codigo que nos genera deberemos de copiarlo y pegarlo nuevamente en nuestro terminal
-
-
-
-## Configuracion del Firebase:
-Dentro de nuestro terminal una vez cargado previamente nuestros archivos deberemos de ejecutar el siguiente comando para la configuracion de nuestro firebase 
-con la aplicacion web para la transferencia de informacion.
-
-## `firebase apps:create`
-En esta seccion se nos indicara para que cosa queremos crear el firebase para IOS, andorid o Web en este caso seleccionaremos para web y damos enter l
+A este codigo que nos genera deberemos de copiarlo y pegarlo nuevamente en nuestro terminal dandonos esta estructura:
 
 
 const firebaseConfig = {
@@ -131,6 +122,18 @@ const firebaseConfig = {
   
   appId: "1:538043423324:web:53405f6d8e9e24e6592499"
 };
+
+
+
+
+## Configuracion del Firebase:
+Dentro de nuestro terminal una vez cargado previamente nuestros archivos deberemos de ejecutar el siguiente comando para la configuracion de nuestro firebase 
+con la aplicacion web para la transferencia de informacion.
+
+## `firebase apps:create`
+En esta seccion se nos indicara para que cosa queremos crear el firebase para IOS, andorid o Web en este caso seleccionaremos para web y damos enter l
+
+
 
 
 
