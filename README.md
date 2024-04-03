@@ -90,16 +90,15 @@ Deberemos de abrir nuestra direccion de nuestro archivo y ejecutar estos comando
 Una vez ejecutado nuestro comando se nos deplegara un menu y deberemos de aceptar con un yes o colocando la letra "Y", luego de esto se nos deplagara otras opciones
 para esto sera necesario usar la tecla espacio para seleccionar las opciones, para la navegacion flechas de arriba o abajo y para aceptar nuestra opcion con la tecla
 enter.
-Para esto deberemos de seleccionar la opcion llamada "Firestore" dar e enter y pulsar enter a cada pregunta, en la ultima pregunta se nos indica como llaremos a la aplicacion 
-del firebase para esto deberemos de darle un nombre cualquiera y finalmente se nos descargara todos nuestros archivos de la configuracion del firebase.
+Para esto deberemos de seleccionar la opcion llamada "Firestore" en este se nos dara una serie de preguntas que deberemos de responder 
 
 ## Configuracion del Firebase:
 Dentro de nuestro terminal una vez cargado previamente nuestros archivos deberemos de ejecutar el siguiente comando para la configuracion de nuestro firebase 
 con la aplicacion web para la transferencia de informacion.
 
-
 ## `firebase apps:create`
-Al haber ejecutado este ultimo comando desde nuestro terminal se creara la instancia para la configuracion del firebase teniendo esta estructura:
+En esta seccion se nos indicara para que cosa queremos crear el firebase para IOS, andorid o Web en este caso seleccionaremos para web y damos enter l
+
 
 const firebaseConfig = {
 
@@ -115,6 +114,7 @@ const firebaseConfig = {
   
   appId: "1:538043423324:web:53405f6d8e9e24e6592499"
 };
+
 
 
 
