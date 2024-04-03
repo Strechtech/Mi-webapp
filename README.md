@@ -89,8 +89,12 @@ Para la seccion de Acceso se ha configurado mediante autenticacion de usuarios a
 Una vez ejecutado nuestro comando se nos deplegara un menu y deberemos de aceptar con un yes o colocando la letra "Y", luego de esto se nos deplagara otras opciones
 para esto sera necesario usar la tecla espacio para seleccionar las opciones, para la navegacion flechas de arriba o abajo y para aceptar nuestra opcion con la tecla
 enter.
-Para esto deberemos de seleccionar la opcion llamada "Firestore" dar e enter y pulsar enter a cada pregunta, en la ultima pregunta deberemos de darle un nombre
-a nuestro firebase para cargar la aplicacion y continuar con la descarga de nuestros archivos.
+Para esto deberemos de seleccionar la opcion llamada "Firestore" dar e enter y pulsar enter a cada pregunta, en la ultima pregunta se nos indica como llaremos a la aplicacion 
+del firebase para esto deberemos de darle un nombre cualquiera y finalmente se nos descargara todos nuestros archivos de la configuracion del firebase.
+
+## Configuracion del Firebase:
+
+
 
 
 
