@@ -90,9 +90,15 @@ Deberemos de abrir nuestra direccion de nuestro archivo y ejecutar estos comando
 Una vez ejecutado nuestro comando se nos deplegara un menu y deberemos de aceptar con un yes o colocando la letra "Y", luego de esto se nos deplagara otras opciones
 para esto sera necesario usar la tecla espacio para seleccionar las opciones, para la navegacion flechas de arriba o abajo y para aceptar nuestra opcion con la tecla
 enter.
-Para esto deberemos de seleccionar la opcion llamada "Firestore" en este se nos dara una serie de preguntas que deberemos de responder 
+Para esto deberemos de seleccionar la opcion llamada "Firestore" en este se nos dara una serie de preguntas que deberemos de responder
+
 ## Please select an option ?
 En esta parte nos depliega 3 opciones, deberemos de aceptar en donde mencione usar en un proyecto exitente.
+
+
+## Select a default Firebase project for this directory:
+En esta parte deberemos de buscar el nombre con el que guardamos nuestra
+firebase y abrirlo.
 
 
 ## What file should be use for Firestore Rules?
