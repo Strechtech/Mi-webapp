@@ -91,6 +91,21 @@ Una vez ejecutado nuestro comando se nos deplegara un menu y deberemos de acepta
 para esto sera necesario usar la tecla espacio para seleccionar las opciones, para la navegacion flechas de arriba o abajo y para aceptar nuestra opcion con la tecla
 enter.
 Para esto deberemos de seleccionar la opcion llamada "Firestore" en este se nos dara una serie de preguntas que deberemos de responder 
+## Please select an option ?
+En esta parte nos depliega 3 opciones, deberemos de aceptar en donde mencione usar en un proyecto exitente.
+
+## What file should be use for Firestore Rules?
+## What file should be use for Firestore Indexes?
+Aceptaremos la opcion que viene por defecto y seguimos aceptando las demas preguntas
+
+## What would you like call your app?
+En esta parte ponemos cualquier nombre para nuestra app, finalmente se creara nuestra app con todas las instancias
+para su correcto manejo, unaz vez cargado nuestros archivos se nos genera este comando.
+
+
+
+
+
 
 ## Configuracion del Firebase:
 Dentro de nuestro terminal una vez cargado previamente nuestros archivos deberemos de ejecutar el siguiente comando para la configuracion de nuestro firebase 
