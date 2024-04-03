@@ -111,11 +111,11 @@ En esta seccion se nos indicara para que cosa queremos crear el firebase para IO
 
 ## What would you like call your app?
 En esta parte ponemos cualquier nombre para nuestra app, finalmente se creara nuestra app con todas las instancias
-para su correcto manejo.
-
-
+para su correcto manejo. Una vez compilado nos generara otro codigo indicandonos que  se establecio la conexion 
+con nuestro firebase
 
 ## `firebase apps: "app id" ` 
+
 A este codigo que nos genera deberemos de copiarlo y pegarlo nuevamente en nuestro terminal dandonos esta estructura:
 
 
