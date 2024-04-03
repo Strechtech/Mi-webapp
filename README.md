@@ -82,8 +82,8 @@ Para la configuracion del desarrollo web se ha planificado usar el acceso median
 
 
 ## Instalacion de la firebase:
-Para la seccion de Acceso se ha configurado mediante autenticacion de usuarios al insertar un correo y una contraseña que pueden generar en la seccion de registrar 
-
+Para la seccion de Acceso se ha configurado mediante autenticacion de usuarios al insertar un correo y una contraseña que pueden generar en la seccion de registrar.
+Deberemos de abrir nuestra direccion de nuestro archivo y ejecutar estos comando atravez de un terminal cmd o el propio de Visual Studio.
 ## `npm install -g firebase-tools`
 ## `firebase init`
 Una vez ejecutado nuestro comando se nos deplegara un menu y deberemos de aceptar con un yes o colocando la letra "Y", luego de esto se nos deplagara otras opciones
@@ -93,6 +93,8 @@ Para esto deberemos de seleccionar la opcion llamada "Firestore" dar e enter y p
 del firebase para esto deberemos de darle un nombre cualquiera y finalmente se nos descargara todos nuestros archivos de la configuracion del firebase.
 
 ## Configuracion del Firebase:
+Dentro de nuestro terminal una vez cargado previamente nuestros archivos deberemos de ejecutar el siguiente comando para la configuracion de nuestro firebase 
+con la aplicacion web para la transferencia de informacion
 
 
 
