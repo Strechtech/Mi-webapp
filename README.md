@@ -65,12 +65,29 @@ Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/d
 
 Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-## Configuracion de la pagina Web-Rect:
-Para la configuracion del desarrollo web se ha planificado usar el acceso mediante rutas para que sea mucho mas comodo la interaccion entre b
-
-
 
 
 ### `npm run build` falla al minimizar
 
 Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+## Configuracion de la pagina Web-Rect:
+Para la configuracion del desarrollo web se ha planificado usar el acceso mediante rutas para que sea mucho mas comodo la navegacion entre pestañas 
+
+##  "npm install react-router-dom" 
+
+
+
+## Instalacion de la firebase:
+Para la seccion de Acceso se ha configurado mediante autenticacion de usuarios al insertar un correo y una contraseña que pueden generar en la seccion de registrar 
+
+##"npm install -g firebase-tools"
+
+
+
+
+
+
