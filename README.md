@@ -99,9 +99,20 @@ En esta parte nos depliega 3 opciones, deberemos de aceptar en donde mencione us
 ## What file should be use for Firestore Indexes?
 Aceptaremos la opcion que viene por defecto y seguimos aceptando las demas preguntas
 
+
+
+
+## Configuracion del Firebase:
+Dentro de nuestro terminal una vez cargado previamente nuestros archivos deberemos de ejecutar el siguiente comando para la configuracion de nuestro firebase 
+con la aplicacion web para la transferencia de informacion.
+
+## `firebase apps:create`
+En esta seccion se nos indicara para que cosa queremos crear el firebase para IOS, andorid o Web en este caso seleccionaremos para web y damos enter.
+
 ## What would you like call your app?
 En esta parte ponemos cualquier nombre para nuestra app, finalmente se creara nuestra app con todas las instancias
-para su correcto manejo, unaz vez cargado nuestros archivos se nos genera este comando.
+para su correcto manejo.
+
 
 
 ## `firebase apps: "app id" ` 
@@ -126,12 +137,6 @@ const firebaseConfig = {
 
 
 
-## Configuracion del Firebase:
-Dentro de nuestro terminal una vez cargado previamente nuestros archivos deberemos de ejecutar el siguiente comando para la configuracion de nuestro firebase 
-con la aplicacion web para la transferencia de informacion.
-
-## `firebase apps:create`
-En esta seccion se nos indicara para que cosa queremos crear el firebase para IOS, andorid o Web en este caso seleccionaremos para web y damos enter l
 
 
 
