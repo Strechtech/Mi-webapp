@@ -99,6 +99,18 @@ con la aplicacion web para la transferencia de informacion.
 
 
 ## `firebase apps:create`
+Al haber ejecutado este ultimo comando desde nuestro terminal se creara la instancia para la configuracion del firebase teniendo esta estructura:
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyC3PQjRxoA4MTBmHq84Tky7-pmTUWzBjgQ",
+  authDomain: "fir-auth-a00cb.firebaseapp.com",
+  projectId: "fir-auth-a00cb",
+  storageBucket: "fir-auth-a00cb.appspot.com",
+  messagingSenderId: "538043423324",
+  appId: "1:538043423324:web:53405f6d8e9e24e6592499"
+};
+
 
 
 
