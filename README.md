@@ -86,6 +86,14 @@ Para la seccion de Acceso se ha configurado mediante autenticacion de usuarios a
 
 ## `npm install -g firebase-tools`
 ## `firebase init`
+Una vez ejecutado nuestro comando se nos deplegara un menu y deberemos de aceptar con un yes o colocando la letra "Y", luego de esto se nos deplagara otras opciones
+para esto sera necesario usar la tecla espacio para seleccionar las opciones, para la navegacion flechas de arriba o abajo y para aceptar nuestra opcion con la tecla
+enter.
+Para esto deberemos de seleccionar la opcion llamada "Firestore" dar e enter y pulsar enter a cada pregunta, en la ultima pregunta deberemos de darle un nombre
+a nuestro firebase para cargar la aplicacion y continuar con la descarga de nuestros archivos.
+
+
+
 
 
 
