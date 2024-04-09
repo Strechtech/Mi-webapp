@@ -156,6 +156,8 @@ de nuestro proyecto que se encuentra guardado en este repositiorio, para lo cual
 ##  ` git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY `  
 
 ##  ` git clone https://github.com/Strechtech/Mi-webapp.git  `  
+En caso de problemas se recomienda actulizar la version de su git a la mas actual y cargue nuevamente el comando 
+al terminal
 
 
 
