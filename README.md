@@ -153,7 +153,7 @@ Una vez descargado en nuestra computadora sera necesario ejecutarlo y empezar co
 de nuestro proyecto que se encuentra guardado en este repositiorio, para lo cual es necesario ejecutar el siguiente comando:
 
 
-##"git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
+##  ` git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY `   
 
 
 
