@@ -145,6 +145,12 @@ Una vez creada nuestra configuracion para usar el firebase copiamos nuevamente e
 de recursos de nuestro proyecto un archivo "fb" o "firebas.js" y pegamos la configuracion.
 
 
+## Copiar formato del Diseño web
+Para lograr copiar el formato de nuestra web app y usarlo en nuestro ordenador sera importante descargar
+
+##GIT BASH
+Una vez descargado en nuestra computadora sera necesario ejecutarlo y empezar con la clonacion
+de nuestro proyecto, para lo cual es necesario ejecutar el siguiente comando:
 
 
 
