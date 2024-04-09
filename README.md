@@ -155,7 +155,7 @@ de nuestro proyecto que se encuentra guardado en este repositiorio, para lo cual
 
 ##  ` git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY `  
 
-##  ` git clone  `  
+##  ` git clone https://github.com/Strechtech/Mi-webapp.git  `  
 
 
 
