@@ -150,8 +150,10 @@ Para lograr copiar el formato de nuestra web app y usarlo en nuestro ordenador s
 
 ##GIT BASH
 Una vez descargado en nuestra computadora sera necesario ejecutarlo y empezar con la clonacion
-de nuestro proyecto, para lo cual es necesario ejecutar el siguiente comando:
+de nuestro proyecto que se encuentra guardado en este repositiorio, para lo cual es necesario ejecutar el siguiente comando:
 
+
+##"git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
 
 
 
